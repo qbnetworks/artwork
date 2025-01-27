@@ -1,5 +1,7 @@
 # QB Networks 
 
+[QB Networks](qbnetworkslogowordmark.png)
+
 QB Networks artwork logo wordmark
 
 # License
