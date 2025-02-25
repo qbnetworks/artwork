@@ -2,7 +2,7 @@
 
 ![QB Networks](qbnetworkslogowordmark.png)
 
-QB Networks artwork logo wordmark
+QB Networks artwork , logo and wordmark
 
 # License
 
