@@ -1,6 +1,6 @@
 # QB Networks 
 
-![QB Networks](qbnetworkslogowordmark.png)
+![QB Networks](lead/collective_leadership.svg)
 
 QB Networks artwork , logo and wordmark
 
